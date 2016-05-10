@@ -18,5 +18,7 @@ repository/
 target/
 logs/
 
+*.log
+
 node_modules
 .DS_Store
