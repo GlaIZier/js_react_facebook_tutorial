@@ -1,3 +1,22 @@
+# editor temp files
 *~
+.*.sw?
+.sw?
+#*#
+DEADJOE
+
+# IDEA project settings
+.idea
+*.ipr
+*.iws
+*.iml
+
+rebel*.xml
+*.versionsBackup
+
+repository/
+target/
+logs/
+
 node_modules
 .DS_Store
